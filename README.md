@@ -28,6 +28,8 @@ In this application it was possible to deepen knowledge in react hooks (state, e
 I learned theories like api flow, SPA, SSR, SSG, and more. <br>
 I used <strong>React</strong> as library and <strong>Next.js</strong> as framework. 
 Learned a lot of CSS and the importance of organizing styles with css-modules. <br>
+I studied how to store data in cookies to save light progress. </br>
+
 
 Web application created in [@Rocketseat's](https://github.com/Rocketseat) fourth edition of NextLevelWeek, an online event that occurred on February 22th to 26th, 2021.
 
