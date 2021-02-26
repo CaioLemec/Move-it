@@ -7,7 +7,7 @@
   <a href="#-Layout">Layoult</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-Technology">Technology</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-Environment">Environment</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-License">License</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#%EF%B8%8F-license">License</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-Participants">Participants</a>
 </p>
 <br>
@@ -96,7 +96,7 @@ This project is licensed under the MIT [LICENSE](LICENSE.md).
 <br>
 <br>
 
-[![Badge](https://img.shields.io/static/v1?label=&message=caiolemec@gmail.com&color=9cf&style=flat-square&logo=Microsoft-Outlook&logoColor=white&link=mailto:caiolemec@gmail.com)](caiolemec@gmail.com) [![Badge](https://img.shields.io/static/v1?label=&message=CaioLemec&color=9cf&style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/caio-lemec)](https://br.linkedin.com/in/caio-lemec/) 
+[![Badge](https://img.shields.io/static/v1?label=&message=caiolemec@gmail.com&color=&style=flat-square&logo=Microsoft-Outlook&logoColor=white&link=mailto:caiolemec@gmail.com)](caiolemec@gmail.com) [![Badge](https://img.shields.io/static/v1?label=&message=CaioLemec&color=&style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/caio-lemec)](https://br.linkedin.com/in/caio-lemec/) 
 
 
 <hr>
