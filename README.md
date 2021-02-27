@@ -40,7 +40,7 @@ Web application created in [@Rocketseat's](https://github.com/Rocketseat) fourth
 <img src="./public/MoveIt.gif" width="70%" height="70%" />
 </p>
 
-<h3 align="center">Click <a href="https://move-it-1rluj2qie-caiolemec.vercel.app/">HERE</a> if you want to see this front-end aplication running.</h3>
+<h3 align="center">Click <a href="https://move-it-ebon-ten.vercel.app/">HERE</a> if you want to see this front-end aplication running.</h3>
 
 <h3 align="center">You can also check completed layout at <a href="https://www.figma.com/file/ge20pu3ofMOKoliUyKx1Nl/Move.it-1.0/duplicate">FIGMA</a>.</h3>
 
