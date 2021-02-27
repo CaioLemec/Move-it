@@ -37,7 +37,7 @@ Web application created in [@Rocketseat's](https://github.com/Rocketseat) fourth
 
 ## 🎨 Layout
 <p align="center">
-<img src="./public/Moveit.gif" width="50%" height="50%" />
+<img src="./public/MoveIt.gif" width="50%" height="50%" />
 </p>
 
 <h3 align="center">Click <a href="https://move-it-1rluj2qie-caiolemec.vercel.app/">HERE</a> if you want to see this front-end aplication running.</h3>
