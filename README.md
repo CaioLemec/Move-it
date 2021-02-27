@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
- <img alt="mockup" src="./public/mockup-moveit.png" width="65%">
+ <img alt="mockup" src="./public/mockup-moveit(2).png" width="65%">
 </p>
 
 ## 💻 Project
