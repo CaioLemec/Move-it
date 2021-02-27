@@ -27,7 +27,7 @@ let countdownTimeout: NodeJS.Timeout;
 export function CountdownProvider({ children }: CountdownProviderProps) {
   const { startNewChallenge } = useContext(ChallengesContext);
 
-  const [time, setTime] = useState(3 * 1); //25*60  <--TESTAGEM RÁPIDA DO PRIMEIRO PRESS|
+  const [time, setTime] = useState(25 * 60);
   const [isActive, setIsActive] = useState(false);
   const [hasFinished, setHasFinished] = useState(false);
 
